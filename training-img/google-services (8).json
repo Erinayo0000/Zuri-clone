@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437436079047",
+    "project_id": "hitpalava",
+    "storage_bucket": "hitpalava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437436079047:android:9538a21ead6c05e78557e2",
+        "android_client_info": {
+          "package_name": "com.oluking.hitpalava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437436079047-e32up98ro0a1goi818l4f1gercfhl681.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP5p78U9GmiJU7o-K3a8AHnvfavVJmiuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437436079047-e32up98ro0a1goi818l4f1gercfhl681.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
